@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(202, 245, 231);
+  color: aliceblue;
+  text-align: center;
+}
+.menor {
+  color: crimson;
+}
+.mayor {
+  color: rgb(7, 209, 7);
+}
+button {
+  margin: 0px 0.5rem;
+}
